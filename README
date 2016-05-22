@@ -1,0 +1,12 @@
+/*
+Kyle Matsumoto
+kytmatsu
+CMPS012B
+11/5/14
+The README
+*/
+
+This is my README i am turning in edfile dllist dllistTest Makefile and auxlib.
+For some reason i could not get my test to work it kept on saying that i had a problem with the LAST FOLLOWING PREVIOUS and FIRST enums. they would not read no matter what i did.
+So i could not really test this program with the program tests. Cheers im pretty sure the code works just fine as i compiled in eclipse and tested it.
+EDIT: I got everything working and fixed a few bugs. it Took me a while to see that i needed a dllist in front of everythingif i wanted the position. yea i used ctrl f and it changed some things up. took me a while to fix that. Anyway heres the complete file with the tests and everything done sorry for being a couple hours over.
